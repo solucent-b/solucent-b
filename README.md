@@ -1,6 +1,6 @@
 # Hi, I'm Solucent
 
-Welcome to my GitHub. I'm an indie game developer, and right now most of my time goes into Remnant, a pixel art RPG I'm making under Solucent Studios.
+Welcome to my GitHub. I'm an indie game developer working on Remnant, a pixel art RPG I'm making under Solucent Studios.
 
 Besides games I code Minecraft servers and compose 8-bit music. I'm also pretty good with system administration and software development in general, so a lot of what I do ends up being setting up servers, fixing things when they break and writing small tools that make the bigger projects easier to work on.
 
