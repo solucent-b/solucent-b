@@ -1,10 +1,10 @@
-# Hi, I'm Brandon
+# Hi, I'm Solucent
 
 Welcome to my GitHub. I'm an indie game developer, and right now most of my time goes into Remnant, a pixel art RPG I'm making under Solucent Studios.
 
 Besides games I code Minecraft servers and compose 8-bit music. I'm also pretty good with system administration and software development in general, so a lot of what I do ends up being setting up servers, fixing things when they break and writing small tools that make the bigger projects easier to work on.
 
-Feel free to look around my repos. If you have a question or want to work on something together you can message me here on GitHub.
+If you have a question or want to work on something together you can message me on Discord at **_solucent**.
 
 ### Tools
 
